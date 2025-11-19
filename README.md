@@ -5,8 +5,9 @@
 ![Status](https://img.shields.io/badge/Status-In%20Development-orange)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
-> 블루 아카이브 "싯딤의 상자"에서 영감을 받아, 삼성 갤럭시 탭을 독립형 AI 어시스턴트 단말기로 변환하는 프로젝트입니다.
-
+> **"선생님, 업무를 시작할까요?"**
+>
+> 블루아카이브의 '싯딤의 상자'를 모티브로 한, 프라이버시 중심의 로컬 구동(On-Device) 3D AI 데스크톱 어시스턴트 프로젝트입니다.
 ---
 
 ## 개요
