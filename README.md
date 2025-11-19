@@ -1232,4 +1232,4 @@ OnDeviceAI/
 ## お問い合わせ
 
 質問や共同作業をご希望の場合は、GitHubでイシューを開いてください。# On-Device-AI-Assistant
-# On-Device-AI-Assistant
+
