@@ -1,3 +1,8 @@
+>KR: 이 프로젝트는 현재 개발 중입니다.
+>EN: This project is currently under development.
+>JP: このプロジェクトは現在開発中です。
+---
+
 # Project Shittim Chest: 안드로이드 온디바이스 AI 어시스턴트
 
 ![Platform](https://img.shields.io/badge/Platform-Android%20Tablet-3DDC84)
